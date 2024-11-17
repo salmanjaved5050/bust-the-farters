@@ -1,0 +1,15 @@
+[package]
+name = "superleague/template-b"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[place]
+shared-packages = "game.ReplicatedStorage.Packages"
+
+[dependencies]
+Replicator = "remnantsofsiren/replicator@1.1.6"
+Cardinal = "remnantsofsiren/cardinal@1.6.0"
+Promise = "evaera/promise@4.0.0"
+Loader = "sleitnick/loader@2.0.0"
+Trove = "sleitnick/trove@1.3.0"

@@ -1,0 +1,13 @@
+# Project place file
+/Bust-The-Farters.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Wally packages
+Packages
+ServerPackages
+
+# Optional TOMLs
+selene.toml
